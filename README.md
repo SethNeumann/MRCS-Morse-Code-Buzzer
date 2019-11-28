@@ -1,5 +1,5 @@
 # MRCS-Morse-Code-Buzzer
-## License: CERN Open Hardware Licence v1.2
+## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 On many operations-oriented model railroads, particularly those
 which a time-table and train-order (TT&TO) or tower-based dispatching
