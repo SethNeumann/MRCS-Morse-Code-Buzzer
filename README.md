@@ -1,4 +1,4 @@
-# MRCS-Morse-Code-Buzzer
+﻿# MRCS-Morse-Code-Buzzer
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 On many operations-oriented model railroads, particularly those
@@ -24,6 +24,8 @@ have have a coil resistance of greater than 40 ohms if using a 12V
 supply.
 
 Requires a 6-9 VDC power supply rated at at least 0.5A. not included.
+
+# this is a test line to check the Git process
 
 The on-board Arduino Pro-Mini runs the
 ["station buzzers" sketch](https://github.com/stevew1154/station_buzzers)
