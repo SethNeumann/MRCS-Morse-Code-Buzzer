@@ -25,8 +25,6 @@ supply.
 
 Requires a 6-9 VDC power supply rated at at least 0.5A. not included.
 
-# this is a test line to check the Git process
-
 The on-board Arduino Pro-Mini runs the
 ["station buzzers" sketch](https://github.com/stevew1154/station_buzzers)
 by Steve Williams.  
